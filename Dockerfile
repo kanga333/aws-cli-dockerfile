@@ -1,6 +1,5 @@
 FROM alpine:latest
-RUN
-  apk -v --update add \
+RUN apk -v --update add \
     python \
     py-pip && \
   pip install --upgrade awscli && \
