@@ -1,2 +1,2 @@
 # aws-cli-dockerfile
-Lightweight docker image with aws-cli installed
+Lightweight docker image with aws-cli installed.
